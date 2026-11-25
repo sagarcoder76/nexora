@@ -1,0 +1,10 @@
+node_modules/
+.next/
+out/
+.vercel/
+.env*
+!.env.example
+*.tsbuildinfo
+.dev-pid
+.freebuff/
+.DS_Store
